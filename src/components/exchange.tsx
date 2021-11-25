@@ -7,7 +7,7 @@ import { useWallet } from "../utils/wallet";
 import { AccountInfo } from "./accountInfo";
 import { Settings } from "./settings";
 import { SettingOutlined } from "@ant-design/icons";
-
+import logo from '../image/logo.png';
 export const ExchangeView = (props: {}) => {
   const { connected, wallet } = useWallet();
   const tabStyle: React.CSSProperties = { width: 120 };
@@ -33,7 +33,7 @@ export const ExchangeView = (props: {}) => {
   const TopBar = (
     <div className="App-Bar">
       <div className="App-Bar-left">
-        <div className="App-logo" />
+        <img src={logo} style={{width:30}}/>
       </div>
       <div className="App-Bar-right">
         <Button type="text" size="large" style={{ color: "#2abdd2" }}>

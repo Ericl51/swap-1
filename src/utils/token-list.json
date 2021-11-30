@@ -1,10 +1,10 @@
 {
   "mainnet-beta": [
     {
-      "tokenSymbol": "SOL",
-      "mintAddress": "So11111111111111111111111111111111111111112",
-      "tokenName": "Solana",
-      "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png"
+      "tokenSymbol": "HIRAM",
+      "mintAddress": "GDsVXtyt2CBwieKSYMEsjjZXXvqz2G2VwudD7EvXzoEU",
+      "tokenName": "Hiram Coin",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GDsVXtyt2CBwieKSYMEsjjZXXvqz2G2VwudD7EvXzoEU/logo.png"
     },
     {
       "tokenSymbol": "SOL",
@@ -143,6 +143,12 @@
   ],
   "testnet": [
     {
+      "tokenSymbol": "HIRAM",
+      "mintAddress": "GDsVXtyt2CBwieKSYMEsjjZXXvqz2G2VwudD7EvXzoEU",
+      "tokenName": "Hiram Coin",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GDsVXtyt2CBwieKSYMEsjjZXXvqz2G2VwudD7EvXzoEU/logo.png"
+    },
+    {
       "tokenSymbol": "SOL",
       "mintAddress": "So11111111111111111111111111111111111111112",
       "tokenName": "Solana",
@@ -156,6 +162,12 @@
     }
   ],
   "devnet": [
+    {
+      "tokenSymbol": "HIRAM",
+      "mintAddress": "GDsVXtyt2CBwieKSYMEsjjZXXvqz2G2VwudD7EvXzoEU",
+      "tokenName": "Hiram Coin",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GDsVXtyt2CBwieKSYMEsjjZXXvqz2G2VwudD7EvXzoEU/logo.png"
+    },
     {
       "tokenSymbol": "SOL",
       "mintAddress": "So11111111111111111111111111111111111111112",
@@ -182,6 +194,12 @@
     }
   ],
   "localnet": [
+    {
+      "tokenSymbol": "HIRAM",
+      "mintAddress": "GDsVXtyt2CBwieKSYMEsjjZXXvqz2G2VwudD7EvXzoEU",
+      "tokenName": "Hiram Coin",
+      "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GDsVXtyt2CBwieKSYMEsjjZXXvqz2G2VwudD7EvXzoEU/logo.png"
+    },
     {
       "tokenSymbol": "SOL",
       "mintAddress": "So11111111111111111111111111111111111111112",
